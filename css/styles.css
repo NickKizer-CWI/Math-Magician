@@ -1,19 +1,19 @@
 /*--------------------------------------------------------------------------------------------|
-|	Project			Designers/Developers                                                      |
+|	Project			Designers/Developers                                          |
 |---------------------------------------------------------------------------------------------|
-|	Math Magician	Cheyenne von Kostka
-|					Nicholas Kizer
-|					Pablo Lomeli
+|	Math Magician		Cheyenne von Kostka
+|				Nicholas Kizer
+|				Pablo Lomeli
 |---------------------------------------------------------------------------------------------|
-|	Date			Changes Made By			Changes											  |
+|	Date			Changes Made By			Changes			      |
 |---------------------------------------------------------------------------------------------|
-|   4.13.17			Cheyenne von Kostka		Changed link styles to be specified to the nav link.
-|											Added float and display to help resonsiveness to nav links
+|   	4.13.17			Cheyenne von Kostka		Changed link styles to be specified to the nav link.
+|								Added float and display to help resonsiveness to nav links
 |
 |	4.14.17			Cheyenne von Kostka		Changed the char type for nav links
-|					Nicholas Kizer			Seperated nav to save room and clean up page
-|											Updated bg image to a free image
-|											Enabled Boostrap | now using lists for nav
+|				Nicholas Kizer			Seperated nav to save room and clean up page
+|								Updated bg image to a free image
+|								Enabled Boostrap | now using lists for nav
 |---------------------------------------------------------------------------------------------|
 
 /* SETS BODY BACKGROUND */
